@@ -32,8 +32,8 @@ A Java-based web application for managing extra classes, including student atten
 
 *Technologies:* Java • Spring Boot • MySQL • Thymeleaf
 
-### 🚕 Taxi Service Management System
-A C# application developed to manage taxi service operations.
+### 🚕 Eshift System
+A C# application developed to manage Eshift service operations.
 
 *Technologies:* C# • .NET • SQL Server
 
